@@ -4,7 +4,7 @@ emoticon
 Google日本語入力の顔文字辞書を管理するレポジトリです
 
 # 使い方
-[Google日本語入力](http://www.google.co.jp/ime/)がすでに導入されている前提で話しsを進めます．
+[Google日本語入力](http://www.google.co.jp/ime/)がすでに導入されている前提で話を進めます．
 
 好きなフォルダにリポジトリをcloneしてください．
 ```
