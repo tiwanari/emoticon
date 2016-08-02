@@ -10,7 +10,7 @@ Google日本語入力の顔文字辞書を管理するレポジトリです
 好きなフォルダにリポジトリをcloneしてください．
 
 ```
-git clone git@github.com:tiwanari/emoticon.git
+git clone https://github.com/tiwanari/emoticon.git
 ```
 
 ## Macの場合
