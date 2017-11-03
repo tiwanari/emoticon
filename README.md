@@ -33,9 +33,13 @@ git clone https://github.com/tiwanari/emoticon.git
 
 先ほどの画面に戻るので，辞書名を入力して，「インポート」を行います(「フォーマット」と「エンコード」は，「自動判定」で構いません)．
 
-### emoticon.txt を日本語順に並び替えたい場合（新規追加後など）  
-「sort_emoticon.py」をダウンロードし、「emoticon.txt」と同じ場所に持ってきます。以下のコマンドを実行します。 
+### emoticon.txt を日本語順に並び替えたい場合（新規追加後など）
+「sort_emoticon.py」をダウンロードし、「emoticon.txt」と同じ場所に持ってきます。以下のコマンドを実行します。
 ```
 python sort_emoticon.py
-```  
+```
 おしまい╭( ･ㅂ･)و ｸﾞｯ!
+
+
+# License
+MIT
