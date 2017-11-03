@@ -40,6 +40,8 @@ python sort_emoticon.py
 ```
 おしまい╭( ･ㅂ･)و ｸﾞｯ!
 
+# その他
+- 顔文字を検索する CLI ツールをつくっていただきました！ [fand/kao](https://github.com/fand/kao)
 
 # License
 MIT
