@@ -13,7 +13,7 @@ Google日本語入力の顔文字辞書を管理するレポジトリです
 git clone https://github.com/tiwanari/emoticon.git
 ```
 
-## Macの場合
+## Macの場合 (Windows,Linuxでも同様の操作です)
 日本語入力に切り替えた後，メニューバーから「辞書ツール」を選択します．
 ![menu](./docs/images/menu.png)
 
