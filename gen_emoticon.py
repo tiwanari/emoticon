@@ -14,3 +14,5 @@ if __name__ == '__main__':
     with open(dst, 'w') as f:
         for row in data:
             f.write(row[0] + '\t' + row[1] + '\t' + row[2] + '\n')
+        for row in data:
+            f.write('@かおもじ\t' + row[1] + '\t' + row[2] + '\n')
